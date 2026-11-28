@@ -10442,17 +10442,17 @@
   {
     "Category": "CStencilShadows",
     "Name": "RenderForVehicle",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CStencilShadows",
     "Name": "RenderForObject",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CStencilShadows",
     "Name": "Render",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CStencilShadows",
@@ -12627,7 +12627,7 @@
   {
     "Category": "CClouds",
     "Name": "RenderBottomFromHeight",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CClouds",

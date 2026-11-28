@@ -1,17 +1,17 @@
 # Reimplementation progress (*): 93%
 This file is updated automatically every time the `hooks.json` file is updated (which happens every time there are changes to hooks made by a commit), and shows the current progress of reversed categories in the project.
 
-Last update was at Nov 28, 2026 at 17:07:35 UTC
-(Triggered by commit [039430f1](https://github.com/gta-reversed/gta-reversed/commit/039430f1c5df4cd71dafff5784ad9dae85d9e917))
+Last update was at Nov 28, 2026 at 18:07:58 UTC
+(Triggered by commit [ae247823](https://github.com/gta-reversed/gta-reversed/commit/ae247823d60619fcac7a6a3ba6467abd7259e604))
 
 ## (*) Disclaimers
 **The progress** is based on the number of functions we have documented and reimplemented, so it might not completely reflect the actual progress, it's meant to be a rough estimate.
 
 **The percentages and the number of categories** shown here may not be completely accurate, because not all categories and functions are documented yet.
 
-## Stats (8279 out of 8926 functions done in 797 categories)
+## Stats (8283 out of 8926 functions done in 797 categories)
 
-#### Completely reversed categories (677/797) [85%]
+#### Completely reversed categories (678/797) [85%]
 
 <details>
 <summary>See list of categories</summary>
@@ -137,6 +137,7 @@ Last update was at Nov 28, 2026 at 17:07:35 UTC
 - CFallingGlassPane (2)<br />
 - CGlass (19)<br />
 - CClock (9)<br />
+- CClouds (21)<br />
 - CCoronas (11)<br />
 - CRegisteredCorona (1)<br />
 - CDraw (2)<br />
@@ -695,7 +696,7 @@ Last update was at Nov 28, 2026 at 17:07:35 UTC
 
 </details>
 
-#### Partially reversed categories (110/797) [14%]
+#### Partially reversed categories (109/797) [14%]
 
 <details>
 <summary>See list of categories</summary>
@@ -719,12 +720,11 @@ Last update was at Nov 28, 2026 at 17:07:35 UTC
 - CGarage (4/18) [22%]<br />
 - CGarages (21/27) [78%]<br />
 - CPostEffects (37/38) [97%]<br />
-- CStencilShadows (9/13) [69%]<br />
+- CStencilShadows (12/13) [92%]<br />
 - CCamera (108/114) [95%]<br />
 - CGangWars (32/35) [91%]<br />
 - CRoadBlocks (7/8) [88%]<br />
 - CPedGroups (2/11) [18%]<br />
-- CClouds (20/21) [95%]<br />
 - CCustomCarPlateMgr (14/15) [93%]<br />
 - CEntryExit (10/11) [91%]<br />
 - CPlayerInfo (25/28) [89%]<br />
