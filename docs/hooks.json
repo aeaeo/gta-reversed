@@ -40807,7 +40807,7 @@
   {
     "Category": "CAERadioTrackManager",
     "Name": "TrackRadioStation",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CAERadioTrackManager",
@@ -40817,12 +40817,12 @@
   {
     "Category": "CAERadioTrackManager",
     "Name": "CheckForTrackConcatenation",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CAERadioTrackManager",
     "Name": "QueueUpTracksForStation",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CAERadioTrackManager",
@@ -40902,7 +40902,7 @@
   {
     "Category": "CAERadioTrackManager",
     "Name": "StopRadio",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CAERadioTrackManager",
