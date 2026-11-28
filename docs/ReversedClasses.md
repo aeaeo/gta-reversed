@@ -1,15 +1,15 @@
 # Reimplementation progress (*): 93%
 This file is updated automatically every time the `hooks.json` file is updated (which happens every time there are changes to hooks made by a commit), and shows the current progress of reversed categories in the project.
 
-Last update was at Nov 28, 2026 at 13:37:10 UTC
-(Triggered by commit [ad80d259](https://github.com/gta-reversed/gta-reversed/commit/ad80d259dc16d1ddb748a6c2e4b55413d298eaa8))
+Last update was at Nov 28, 2026 at 17:07:35 UTC
+(Triggered by commit [039430f1](https://github.com/gta-reversed/gta-reversed/commit/039430f1c5df4cd71dafff5784ad9dae85d9e917))
 
 ## (*) Disclaimers
 **The progress** is based on the number of functions we have documented and reimplemented, so it might not completely reflect the actual progress, it's meant to be a rough estimate.
 
 **The percentages and the number of categories** shown here may not be completely accurate, because not all categories and functions are documented yet.
 
-## Stats (8268 out of 8926 functions done in 797 categories)
+## Stats (8279 out of 8926 functions done in 797 categories)
 
 #### Completely reversed categories (677/797) [85%]
 
@@ -720,7 +720,7 @@ Last update was at Nov 28, 2026 at 13:37:10 UTC
 - CGarages (21/27) [78%]<br />
 - CPostEffects (37/38) [97%]<br />
 - CStencilShadows (9/13) [69%]<br />
-- CCamera (97/114) [85%]<br />
+- CCamera (108/114) [95%]<br />
 - CGangWars (32/35) [91%]<br />
 - CRoadBlocks (7/8) [88%]<br />
 - CPedGroups (2/11) [18%]<br />

@@ -11107,7 +11107,7 @@
   {
     "Category": "CCamera",
     "Name": "CopyCameraMatrixToRWCam",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CCamera",
@@ -11197,7 +11197,7 @@
   {
     "Category": "CCamera",
     "Name": "TakeControlAttachToEntity",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CCamera",
@@ -11212,7 +11212,7 @@
   {
     "Category": "CCamera",
     "Name": "SetNearClipBasedOnPedCollision",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CCamera",
@@ -11272,12 +11272,12 @@
   {
     "Category": "CCamera",
     "Name": "HandleCameraMotionForDucking",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CCamera",
     "Name": "HandleCameraMotionForDuckingDuringAim",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CCamera",
@@ -11317,12 +11317,12 @@
   {
     "Category": "CCamera",
     "Name": "CalculateFrustumPlanes",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CCamera",
     "Name": "CalculateDerivedValues",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CCamera",
@@ -11412,7 +11412,7 @@
   {
     "Category": "CCamera",
     "Name": "ProcessShake-float",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CCamera",
@@ -11422,17 +11422,17 @@
   {
     "Category": "CCamera",
     "Name": "UpdateSoundDistances",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CCamera",
     "Name": "IsSphereVisible-",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CCamera",
     "Name": "ProcessShake-void",
-    "IsReversed": false
+    "IsReversed": true
   },
   {
     "Category": "CMessages",
@@ -30491,12 +30491,12 @@
   },
   {
     "Category": "CTaskSimpleThrowControl",
-    "Name": "Constructor",
+    "Name": "Constructor-1",
     "IsReversed": true
   },
   {
     "Category": "CTaskSimpleThrowControl",
-    "Name": "Destructor",
+    "Name": "Desructor",
     "IsReversed": true
   },
   {
